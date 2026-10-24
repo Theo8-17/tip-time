@@ -1,0 +1,6 @@
+{
+  "name": "Tip Time",
+  "description": "Application de calcul de pourboire interactive développée avec Jetpack Compose (Chapitre 8 - slide 82/199).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
